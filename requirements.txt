@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+celery
+redis
+psycopg2-binary
+langgraph
+langchain
+langchain-google-genai
+xgboost
+pandas
+pydantic
+razorpay
+python-dotenv
